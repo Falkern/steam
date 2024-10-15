@@ -1,6 +1,6 @@
 # Steam Shortcut Customizer 🌸
 
-This project is a steam shortcut customizer that can modify your shortcuts, made using [python](https://github.com/python) and [customtk](https://github.com/TomSchimansky/CustomTkinter).
+This project is a steam shortcut customizer that can modify your shortcuts, made using [python](https://github.com/python) and [customtk](https://github.com/TomSchimansky/CustomTkinter). <br>
 Still under development, if u want just fork this shit and update it to your desire.
 
 ## Features
